@@ -1,0 +1,12 @@
+{
+  "name": "vcpkg-example",
+  "version": "0.1.0",
+  "dependencies": [
+    {
+      "name": "boost-program-options"
+    },
+    {
+      "name": "fmt"
+    }
+  ]
+}
